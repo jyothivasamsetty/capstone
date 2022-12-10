@@ -1,0 +1,14 @@
+{
+  "name": "@d3/connected-scatterplot",
+  "main": "Scatterplot.js",
+  "version": "408.0.0",
+  "homepage": "https://observablehq.com/@d3/connected-scatterplot",
+  "author": {
+    "name": "D3",
+    "url": "https://observablehq.com/@d3"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

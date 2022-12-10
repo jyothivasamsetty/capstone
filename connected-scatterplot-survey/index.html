@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Scatterplot, Connected</title>
+<link rel="stylesheet" type="text/css" href="./inspector.css">
+<head>
+<style>
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #bfbfbf;
+  }
+  .active{
+    background-color: white;
+    color: black;
+    border: inset;
+  }
+</style>
+</head>
+<body>
+  <ul>
+    <li><a href="../index.html">Home</a></li>
+    <li><a href="../bar-chart-transitions/index.html">Bar Chart Transitions</a></li>
+    <li><a href="../box-plot/index.html">Box Plot</a></li>
+    <li><a href="../brushable-scatterplot/index.html">Brushable ScatterPlot</a></li>
+    <li><a href="../Collapsible-Tree/index.html">Collapisble Tree</a></li>
+    <li><a class="active" href="../connected-scatterplot-survey/">Connected SctterPlot Survey</a></li>
+  </ul>
+  <div style="padding: 50px 75px;" id="scatterplot"></div>
+  <div style="padding: 0px 25px;">
+    <h1>Description:</h1>
+  
+    <p>TThis is a recreation of connected scatterplot x lable count (per average chain ) and y lable reperesents JobID(average).</p>
+  
+  </div>
+<script type="module">
+
+    import define from "./index.js";
+    import {Runtime, Library, Inspector} from "./runtime.js";
+    
+    const runtime = new Runtime();
+    const main = runtime.module(define, name => {
+        if (name == 'chart') {
+            return new Inspector(document.getElementById('scatterplot'));
+        }
+      });
+    
+    </script>
