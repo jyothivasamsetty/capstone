@@ -1,0 +1,388 @@
+{
+	"name": "LogFiles",
+	"children": [
+	{"name": "schnet",
+	 "children": [
+		
+			 {
+				"name": "count=165"
+			  },
+			  {
+				 "name": "lustreRPCTotals=26359"
+			  },
+			  {
+				 "name": "MemoryFreeInactiveKB=371"
+			  },
+			  {
+				 "name": "LoadAvg=29.24"
+			  },
+			  {
+				 "name": "Fslatency=0"
+			  },
+			  {
+				 "name": "UserPIDCount=91472915699408:11|1706828023724:15|65855960046267:12|"
+			  },
+			  {
+				 "name": "Time=1614556501"
+			  },
+			  {
+				 "name": "node=r7217787-n911952"
+			 
+			  
+			  }
+		
+	 ]
+	},{"name": "Conv",
+	 "children": [
+		
+			 {
+				"name": "count=165"
+			  },
+			  {
+				 "name": "lustreRPCTotals=228"
+			  },
+			  {
+				 "name": "MemoryFreeInactiveKB=363"
+			  },
+			  {
+				 "name": "LoadAvg=4.7"
+			  },
+			  {
+				 "name": "Fslatency=0"
+			  },
+			  {
+				 "name": "UserPIDCount=66720169194922:40|"
+			  },
+			  {
+				 "name": "Time=1614556501"
+			  },
+			  {
+				 "name": "node=r4858666-n911952"
+			 
+			  
+			  }
+		
+	 ]
+	},
+	{"name": "Diamenet",
+	 "children": [
+		
+			 {
+				"name": "count=159"
+			  },
+			  {
+				 "name": "lustreRPCTotals=26"
+			  },
+			  {
+				 "name": "MemoryFreeInactiveKB=377"
+			  },
+			  {
+				 "name": "LoadAvg=40"
+			  },
+			  {
+				 "name": "Fslatency=0"
+			  },
+			  {
+				 "name": "UserPIDCount=22654259079669:47|"
+			  },
+			  {
+				 "name": "Time=1614556501"
+			  },
+			  {
+				 "name": "node=r2582019-n911952"
+			 
+			  
+			  }
+		
+	 ]
+	},
+	{"name": "PNA",
+	 "children": [
+		
+			 {
+				"name": "count=157"
+			  },
+			  {
+				 "name": "lustreRPCTotals=2659"
+			  },
+			  {
+				 "name": "MemoryFreeInactiveKB=363"
+			  },
+			  {
+				 "name": "LoadAvg=5.5"
+			  },
+			  {
+				 "name": "Fslatency=0"
+			  },
+			  {
+				 "name": "UserPIDCount=91472915699408:7|12886809117418:29|53679664603822:57||"
+			  },
+			  {
+				 "name": "Time=1614556501"
+			  },
+			  {
+				 "name": "node=r7217987-n9119952"
+			 
+			  
+			  }
+		
+	 ]
+	},
+	{"name": "resnet152_v2",
+	 "children": [
+		
+			 {
+				"name": "count=147"
+			  },
+			  {
+				 "name": "lustreRPCTotals=5659"
+			  },
+			  {
+				 "name": "MemoryFreeInactiveKB=353"
+			  },
+			  {
+				 "name": "LoadAvg=55.5"
+			  },
+			  {
+				 "name": "Fslatency=0"
+			  },
+			  {
+				 "name": "UserPIDCount=91472915699408|"
+			  },
+			  {
+				 "name": "Time=1614556501"
+			  },
+			  {
+				 "name": "node=r7257987-n9116952"
+			 
+			  
+			  }
+		
+	 ]
+	},
+	{"name": "resnet101_v2",
+	 "children": [
+		
+			 {
+				"name": "count=157"
+			  },
+			  {
+				 "name": "lustreRPCTotals=26559"
+			  },
+			  {
+				 "name": "MemoryFreeInactiveKB=343"
+			  },
+			  {
+				 "name": "LoadAvg=555.5"
+			  },
+			  {
+				 "name": "Fslatency=0"
+			  },
+			  {
+				 "name": "UserPIDCount=29|53679664603822:57||"
+			  },
+			  {
+				 "name": "Time=1614556501"
+			  },
+			  {
+				 "name": "node=r72417987-n9117952"
+			 
+			  
+			  }
+		
+	 ]
+	},
+	{"name": "resnet152",
+	 "children": [
+		
+			 {
+				"name": "count=125"
+			  },
+			  {
+				 "name": "lustreRPCTotals=2999"
+			  },
+			  {
+				 "name": "MemoryFreeInactiveKB=3213"
+			  },
+			  {
+				 "name": "LoadAvg=32.5"
+			  },
+			  {
+				 "name": "Fslatency=0"
+			  },
+			  {
+				 "name": "UserPIDCount=91472915699408|"
+			  },
+			  {
+				 "name": "Time=1614556501"
+			  },
+			  {
+				 "name": "node=r7257987-n9115752"
+			 
+			  
+			  }
+		
+	 ]
+	},
+	{"name": "resnet50",
+	 "children": [
+		
+			 {
+				"name": "count=137"
+			  },
+			  {
+				 "name": "lustreRPCTotals=2229"
+			  },
+			  {
+				 "name": "MemoryFreeInactiveKB=3773"
+			  },
+			  {
+				 "name": "LoadAvg=99.5"
+			  },
+			  {
+				 "name": "Fslatency=0"
+			  },
+			  {
+				 "name": "UserPIDCount=12886809117418:29|53679664603822:57||"
+			  },
+			  {
+				 "name": "Time=1614556501"
+			  },
+			  {
+				 "name": "node=r7217937-n9118952"
+			 
+			  
+			  }
+		
+	 ]
+	},
+	{"name": "inception3",
+	 "children": [
+		
+			 {
+				"name": "count=187"
+			  },
+			  {
+				 "name": "lustreRPCTotals=8059"
+			  },
+			  {
+				 "name": "MemoryFreeInactiveKB=313"
+			  },
+			  {
+				 "name": "LoadAvg=9.5"
+			  },
+			  {
+				 "name": "Fslatency=0"
+			  },
+			  {
+				 "name": "UserPIDCount=85811269001294:6|1706828023724:6|59073059232324:7|79390413110889:45|"
+			  },
+			  {
+				 "name": "Time=1614556501"
+			  },
+			  {
+				 "name": "node=r7217937-n9119922"
+			 
+			  
+			  }
+		
+	 ]
+	},
+	{"name": "U4-128",
+	 "children": [
+		
+			 {
+				"name": "count=197"
+			  },
+			  {
+				 "name": "lustreRPCTotals=3259"
+			  },
+			  {
+				 "name": "MemoryFreeInactiveKB=123"
+			  },
+			  {
+				 "name": "LoadAvg=55.5"
+			  },
+			  {
+				 "name": "Fslatency=0"
+			  },
+			  {
+				 "name": "UserPIDCount=914729159408:7|1288680955117418:29|539664603822:57||"
+			  },
+			  {
+				 "name": "Time=1614556501"
+			  },
+			  {
+				 "name": "node=r7257987-n91789952"
+			 
+			  
+			  }
+		
+	 ]
+	},
+	{"name": "U3-32",
+	 "children": [
+		
+			 {
+				"name": "count=177"
+			  },
+			  {
+				 "name": "lustreRPCTotals=25559"
+			  },
+			  {
+				 "name": "MemoryFreeInactiveKB=53"
+			  },
+			  {
+				 "name": "LoadAvg=.5"
+			  },
+			  {
+				 "name": "Fslatency=0"
+			  },
+			  {
+				 "name": "UserPIDCount=914729156997508:7|1288655809117418:29|536793664603822:57||"
+			  },
+			  {
+				 "name": "Time=1614556501"
+			  },
+			  {
+				 "name": "node=r7227987-n91199527"
+			 
+			  
+			  }
+		
+	 ]
+	},
+	{"name": "distilbert-base-uncased",
+	 "children": [
+		
+			 {
+				"name": "count=155"
+			  },
+			  {
+				 "name": "lustreRPCTotals=2522"
+			  },
+			  {
+				 "name": "MemoryFreeInactiveKB=37881"
+			  },
+			  {
+				 "name": "LoadAvg=66.5"
+			  },
+			  {
+				 "name": "Fslatency=0"
+			  },
+			  {
+				 "name": "UserPIDCount=915914930715133:5|"
+			  },
+			  {
+				 "name": "Time=1614556501"
+			  },
+			  {
+				 "name": "node=r7217457-n91195252"
+			 
+			  
+			  }
+		
+	 ]
+	}
+	]
+}
